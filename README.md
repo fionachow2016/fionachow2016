@@ -33,5 +33,5 @@ Eleven years inside one shipping SaaS company (Auctane, the team behind ShipStat
 
 ## 📫 Reach me
 
-[LinkedIn](https://www.linkedin.com/in/[your-handle]) — fastest way to get a reply.
+[LinkedIn](https://www.linkedin.com/in/fionachow2016) — fastest way to get a reply.
 "# fionachow2016" 
