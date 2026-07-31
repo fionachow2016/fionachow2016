@@ -27,7 +27,8 @@ Eleven years inside one shipping SaaS company (Auctane, the team behind ShipStat
 
 ## 🔧 Selected builds
 
-- **[resume-job-scanner](https://github.com/[your-username]/resume-job-scanner)** — Python + GitHub Actions job scanner: pulls fresh postings, dedupes across sources, scores each against a resume profile, verifies the listing is still open, and emails a ranked table with a running Excel log.
+- **[merchant_churn_prediction](https://github.com/fionachow2016/merchant_churn_prediction)** — end-to-end churn model (pandas, scikit-learn, XGBoost) that ranks still-active merchants by risk, so an account team knows who to call first — the problem I used to own by hand when I was in the RevOp team. Spoiler: the plain logistic-regression baseline edged out XGBoost. Opens in Colab.
+- **[resume-job-scanner](https://github.com/[your-username]/ume-job-scanner)** (private) — Python + GitHub Actions job scanner: pulls fresh postings, dedupes across sources, scores each against a resume profile, verifies the listing is still open, and emails a ranked table with a running Excel log.
 - **QBR deck generator** *(internal)* — Excel-to-PowerPoint automation that cut quarterly business review prep from ~2 hours to 10–20 minutes; adopted team-wide.
 - **Package-level pricing tool** *(internal)* — started as an Excel VBA prototype, then rebuilt with product and engineering as an internal web app used by all of sales and solutions engineering.
 
