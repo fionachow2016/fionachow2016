@@ -28,7 +28,8 @@ Eleven years inside one shipping SaaS company (Auctane, the team behind ShipStat
 ## 🔧 Selected builds
 
 - **[merchant_churn_prediction](https://github.com/fionachow2016/merchant_churn_prediction)** — end-to-end churn model (pandas, scikit-learn, XGBoost) that ranks still-active merchants by risk, so an account team knows who to call first — the problem I used to own by hand when I was in the RevOp team. Spoiler: the plain logistic-regression baseline edged out XGBoost. Opens in Colab.
-- **QBR deck generator** *(internal)* — Excel-to-PowerPoint automation that cut quarterly business review prep from ~2 hours to 10–20 minutes; adopted team-wide.
+- **[data-quality-sentinel](https://github.com/fionachow2016/data-quality-sentinel)** (governance/automation) - A lightweight, config-driven data quality framework that runs SQL assertions against a warehouse on a schedule, blocks bad data from reaching dashboards, and alerts the team in Slack when something breaks.
+- **[qbr-deck-automation](https://github.com/fionachow2016/qbr-deck-automation)** (executive reporting/automation) — rebuilt my team-adopted QBR automation as a fully scripted pipeline — SQL to pandas to native PowerPoint — with metrics separated from presentation like a semantic layer, tested in CI, generating an entire book of business in seconds. QA even caught a partial-quarter comparison bug, which I fixed in the metrics layer with a regression test.
 - **Package-level pricing tool** *(internal)* — started as an Excel VBA prototype, then rebuilt with product and engineering as an internal web app used by all of sales and solutions engineering.
 
 ## 📫 Reach me
